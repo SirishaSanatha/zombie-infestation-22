@@ -67,7 +67,7 @@ function draw() {
   fill ("white");
   textSize(30);
   text("ZOMBIE INFESTATION IN THE CITY",170,35);
-
+ text("press key down to DROP the package",70,692);
   
 
   
